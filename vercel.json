@@ -1,8 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
-  "outputDirectory": ".",
-  "functions": {
-    "api/session.js": { "memory": 128, "maxDuration": 10 }
-  }
+  "outputDirectory": "."
 }
